@@ -1,6 +1,6 @@
 Thanks for downloading this theme!
 
 Theme Name: Marwan Essam
-Theme URL: https://github.com/MarwanMaro/MarwanMaro.git
+Theme URL: https://marwanmaro.github.io/MarwanMaro/
 Author:Marwan Essam
 
