@@ -1,6 +1,6 @@
 Thanks for downloading this theme!
 
 Theme Name: Marwan Essam
-Theme URL: https://marwan-maro.vercel.app/
+Theme URL: https://github.com/MarwanMaro/MarwanMaro.git
 Author:Marwan Essam
 
